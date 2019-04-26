@@ -2,3 +2,13 @@
 # See README.md for instructions on how to do this
 
 
+def fizzbuzz(int)
+  if(int % 15)
+    "FizzBuzz"
+  elsif(int%3)
+    "Fizz"
+  elsif
+    "Buzz"
+  else
+    NIL
+  end
